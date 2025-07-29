@@ -1,4 +1,5 @@
-![SPRAI Logo](https://github.com/Alanwactavski89/SPRAI-Coin/blob/main/logo.png?raw=true)
+![SPRAI Logo](https://github.com/spraicoin/sprai.github.io/blob/main/logo.png?raw=true)
+
 
 # 🌱 SPRAI Coin
 
