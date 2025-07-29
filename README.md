@@ -1,4 +1,5 @@
-![SPRAI Logo](https://github.com/spraicoin/sprai.github.io/blob/main/logo.png?raw=true)
+<img src="https://github.com/spraicoin/sprai.github.io/blob/main/logo.png?raw=true" alt="SPRAI Logo" width="200"/>
+
 
 
 # 🌱 SPRAI Coin
