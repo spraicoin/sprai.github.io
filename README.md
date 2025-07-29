@@ -32,6 +32,7 @@ SPRAI is a meme coin with a purpose — combining the power of the blockchain wi
 
 - 🥞 [Buy on PancakeSwap](https://pancakeswap.finance/swap?outputCurrency=0x7C7e518D6d91498BbD850a834e36a96661ac9B1B)  
 - 🔒 [View Liquidity Lock (Mudra)](https://mudra.website/?certificate=yes&type=0&lp=0x98fba4342f42dd1f629908f330ebce1b4f4a51f5)
+- 📈 [View on CoinMarketCap](https://dex.coinmarketcap.com/token/BSC/0x7c7e518d6d91498bbd850a834e36a96661ac9b1b)
 
 ---
 
