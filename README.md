@@ -57,7 +57,7 @@ We aim to:
 
 ## 📢 Social Media
 
-- 🌐 [Website](https://spraicoin.github.io/sprai.github.io/)
+- 🌐 [Website](https://spraicoin.github.io/)
 - 📸 [Instagram](https://instagram.com/sprai.token)  
 - ✉️ Email: support@spraicoin.net
 
